@@ -154,7 +154,7 @@ h2::before{
     
 }
 .description{
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
     font-size: var(--text-preset-2-size);
     font-weight: var(--text-preset-2-weight);
     line-height: var(--text-preset-2-line-height);
@@ -195,6 +195,7 @@ hr{
     display: flex;
     height: 33px;
 }
+
 
 
 
